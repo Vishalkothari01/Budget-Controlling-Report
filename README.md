@@ -13,3 +13,4 @@ This dashbaord is interactive, and it shows data from January up to the current 
 
 # Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
+![image](https://github.com/user-attachments/assets/4b495355-866a-4af4-b203-1d664d50b02b)
